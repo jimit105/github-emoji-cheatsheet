@@ -1,0 +1,7 @@
+theme: jekyll-theme-dinky
+google_analytics: UA-136790987-1
+title: GitHub Emoji Cheatsheet
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
