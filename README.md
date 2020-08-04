@@ -25,7 +25,7 @@
 ## GitHub Emoji Cheatsheet  
 
 [![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/workflows/GitHub%20Emoji%20Update/badge.svg?branch=master)](https://github.com/jimit105/github-emoji-cheatsheet/actions)
-Last Updated on: Aug 04, 2020 04:45:03 UTC
+Last Updated on: Aug 04, 2020 10:15:24 UTC
 
 |Icon|Emoji Code|
 |---|---|
