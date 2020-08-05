@@ -9,6 +9,7 @@ Created on Mon Aug  3 16:03:09 2020
 import requests
 import os
 import time
+import urllib.parse
 
 url = os.getenv('GITHUB_API_URL') + '/emojis'
 
@@ -44,8 +45,10 @@ meta_info = '''<meta name="author" content="Jimit Dholakia">
 <meta name="twitter:description" content="Complete list of GitHub Markdown Emoji Codes">
 <meta name="twitter:image" content="meta_img.png">
 '''
+current_time = time.strftime('%b %d, %Y %X %Z', time.localtime())
 action_badge = '[![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/workflows/GitHub%20Emoji%20Update/badge.svg?branch=master)](https://github.com/jimit105/github-emoji-cheatsheet/actions)'
-header = '## GitHub Emoji Cheatsheet  \n\n' + action_badge + '\nLast Updated on: ' + time.strftime('%b %d, %Y %X %Z', time.localtime()) + '\n\n'
+header = '## GitHub Emoji Cheatsheet  \n\n' + action_badge + '\n![Last Updated](https://img.shields.io/badge/Last%20Updated%20on-' + \
+    urllib.parse.quote(current_time) + '-brightgreen)' + '\n\n'
 complete_text = meta_info + header + '|Icon|Emoji Code|' + '\n' + '|---|---|' + '\n'
 
 for key in keys:
