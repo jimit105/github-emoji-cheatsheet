@@ -5,3 +5,4 @@ title: GitHub Emoji Cheatsheet
 plugins:
   - jemoji
   - jekyll-sitemap
+  - jekyll-seo-tag
