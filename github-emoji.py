@@ -11,7 +11,7 @@ import os
 import time
 import urllib.parse
 
-url = os.getenv('GITHUB_API_URL') + '/emojis'
+url = os.getenv('GITHUB_API_URL', 'https://api.github.com') + '/emojis'
 
 print('Emojis URL:', url)
 r = requests.get(url)
