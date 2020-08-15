@@ -11,6 +11,9 @@ import os
 import time
 import urllib.parse
 
+os.environ['TZ'] = 'Asia/Kolkata'
+time.tzset()
+
 url = os.getenv('GITHUB_API_URL', 'https://api.github.com') + '/emojis'
 
 print('Emojis URL:', url)
