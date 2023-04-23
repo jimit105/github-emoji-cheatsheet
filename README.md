@@ -25,7 +25,7 @@
 ## GitHub Emoji Cheatsheet  
 
 [![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/workflows/GitHub%20Emoji%20Update/badge.svg?branch=master)](https://github.com/jimit105/github-emoji-cheatsheet/actions)
-![Last Updated](https://img.shields.io/badge/Last%20Updated%20on-Apr%2017%2C%202023%2000%3A06%3A47%20IST-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated%20on-Apr%2024%2C%202023%2000%3A06%3A40%20IST-brightgreen)
 
 |Icon|Emoji Code|
 |---|---|
