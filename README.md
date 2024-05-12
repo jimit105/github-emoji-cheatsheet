@@ -25,7 +25,7 @@
 ## GitHub Emoji Cheatsheet  
 
 [![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/workflows/GitHub%20Emoji%20Update/badge.svg?branch=master)](https://github.com/jimit105/github-emoji-cheatsheet/actions)
-![Last Updated](https://img.shields.io/badge/Last%20Updated%20on-May%2006%2C%202024%2000%3A07%3A04%20IST-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated%20on-May%2013%2C%202024%2000%3A07%3A17%20IST-brightgreen)
 
 |Icon|Emoji Code|
 |---|---|
@@ -157,6 +157,7 @@
 |:bathtub:|`:bathtub:`|
 |:battery:|`:battery:`|
 |:beach_umbrella:|`:beach_umbrella:`|
+|:beans:|`:beans:`|
 |:bear:|`:bear:`|
 |:bearded_person:|`:bearded_person:`|
 |:beaver:|`:beaver:`|
@@ -187,6 +188,8 @@
 |:bird:|`:bird:`|
 |:birthday:|`:birthday:`|
 |:bison:|`:bison:`|
+|:biting_lip:|`:biting_lip:`|
+|:black_bird:|`:black_bird:`|
 |:black_cat:|`:black_cat:`|
 |:black_circle:|`:black_circle:`|
 |:black_flag:|`:black_flag:`|
@@ -256,6 +259,7 @@
 |:brown_square:|`:brown_square:`|
 |:brunei:|`:brunei:`|
 |:bubble_tea:|`:bubble_tea:`|
+|:bubbles:|`:bubbles:`|
 |:bucket:|`:bucket:`|
 |:bug:|`:bug:`|
 |:building_construction:|`:building_construction:`|
@@ -418,6 +422,7 @@
 |:cool:|`:cool:`|
 |:cop:|`:cop:`|
 |:copyright:|`:copyright:`|
+|:coral:|`:coral:`|
 |:corn:|`:corn:`|
 |:costa_rica:|`:costa_rica:`|
 |:cote_divoire:|`:cote_divoire:`|
@@ -447,6 +452,7 @@
 |:crossed_flags:|`:crossed_flags:`|
 |:crossed_swords:|`:crossed_swords:`|
 |:crown:|`:crown:`|
+|:crutch:|`:crutch:`|
 |:cry:|`:cry:`|
 |:crying_cat_face:|`:crying_cat_face:`|
 |:crystal_ball:|`:crystal_ball:`|
@@ -514,7 +520,9 @@
 |:dolphin:|`:dolphin:`|
 |:dominica:|`:dominica:`|
 |:dominican_republic:|`:dominican_republic:`|
+|:donkey:|`:donkey:`|
 |:door:|`:door:`|
+|:dotted_line_face:|`:dotted_line_face:`|
 |:doughnut:|`:doughnut:`|
 |:dove:|`:dove:`|
 |:dragon:|`:dragon:`|
@@ -553,6 +561,7 @@
 |:elf_man:|`:elf_man:`|
 |:elf_woman:|`:elf_woman:`|
 |:email:|`:email:`|
+|:empty_nest:|`:empty_nest:`|
 |:end:|`:end:`|
 |:england:|`:england:`|
 |:envelope:|`:envelope:`|
@@ -576,8 +585,12 @@
 |:eyeglasses:|`:eyeglasses:`|
 |:eyes:|`:eyes:`|
 |:face_exhaling:|`:face_exhaling:`|
+|:face_holding_back_tears:|`:face_holding_back_tears:`|
 |:face_in_clouds:|`:face_in_clouds:`|
+|:face_with_diagonal_mouth:|`:face_with_diagonal_mouth:`|
 |:face_with_head_bandage:|`:face_with_head_bandage:`|
+|:face_with_open_eyes_and_hand_over_mouth:|`:face_with_open_eyes_and_hand_over_mouth:`|
+|:face_with_peeking_eye:|`:face_with_peeking_eye:`|
 |:face_with_spiral_eyes:|`:face_with_spiral_eyes:`|
 |:face_with_thermometer:|`:face_with_thermometer:`|
 |:facepalm:|`:facepalm:`|
@@ -666,11 +679,13 @@
 |:floppy_disk:|`:floppy_disk:`|
 |:flower_playing_cards:|`:flower_playing_cards:`|
 |:flushed:|`:flushed:`|
+|:flute:|`:flute:`|
 |:fly:|`:fly:`|
 |:flying_disc:|`:flying_disc:`|
 |:flying_saucer:|`:flying_saucer:`|
 |:fog:|`:fog:`|
 |:foggy:|`:foggy:`|
+|:folding_hand_fan:|`:folding_hand_fan:`|
 |:fondue:|`:fondue:`|
 |:foot:|`:foot:`|
 |:football:|`:football:`|
@@ -719,6 +734,7 @@
 |:gibraltar:|`:gibraltar:`|
 |:gift:|`:gift:`|
 |:gift_heart:|`:gift_heart:`|
+|:ginger_root:|`:ginger_root:`|
 |:giraffe:|`:giraffe:`|
 |:girl:|`:girl:`|
 |:globe_with_meridians:|`:globe_with_meridians:`|
@@ -732,6 +748,7 @@
 |:golfing:|`:golfing:`|
 |:golfing_man:|`:golfing_man:`|
 |:golfing_woman:|`:golfing_woman:`|
+|:goose:|`:goose:`|
 |:gorilla:|`:gorilla:`|
 |:grapes:|`:grapes:`|
 |:greece:|`:greece:`|
@@ -744,6 +761,7 @@
 |:greenland:|`:greenland:`|
 |:grenada:|`:grenada:`|
 |:grey_exclamation:|`:grey_exclamation:`|
+|:grey_heart:|`:grey_heart:`|
 |:grey_question:|`:grey_question:`|
 |:grimacing:|`:grimacing:`|
 |:grin:|`:grin:`|
@@ -761,6 +779,7 @@
 |:guitar:|`:guitar:`|
 |:gun:|`:gun:`|
 |:guyana:|`:guyana:`|
+|:hair_pick:|`:hair_pick:`|
 |:haircut:|`:haircut:`|
 |:haircut_man:|`:haircut_man:`|
 |:haircut_woman:|`:haircut_woman:`|
@@ -769,9 +788,11 @@
 |:hammer:|`:hammer:`|
 |:hammer_and_pick:|`:hammer_and_pick:`|
 |:hammer_and_wrench:|`:hammer_and_wrench:`|
+|:hamsa:|`:hamsa:`|
 |:hamster:|`:hamster:`|
 |:hand:|`:hand:`|
 |:hand_over_mouth:|`:hand_over_mouth:`|
+|:hand_with_index_finger_and_thumb_crossed:|`:hand_with_index_finger_and_thumb_crossed:`|
 |:handbag:|`:handbag:`|
 |:handball_person:|`:handball_person:`|
 |:handshake:|`:handshake:`|
@@ -788,6 +809,7 @@
 |:heart_decoration:|`:heart_decoration:`|
 |:heart_eyes:|`:heart_eyes:`|
 |:heart_eyes_cat:|`:heart_eyes_cat:`|
+|:heart_hands:|`:heart_hands:`|
 |:heart_on_fire:|`:heart_on_fire:`|
 |:heartbeat:|`:heartbeat:`|
 |:heartpulse:|`:heartpulse:`|
@@ -795,6 +817,7 @@
 |:heavy_check_mark:|`:heavy_check_mark:`|
 |:heavy_division_sign:|`:heavy_division_sign:`|
 |:heavy_dollar_sign:|`:heavy_dollar_sign:`|
+|:heavy_equals_sign:|`:heavy_equals_sign:`|
 |:heavy_exclamation_mark:|`:heavy_exclamation_mark:`|
 |:heavy_heart_exclamation:|`:heavy_heart_exclamation:`|
 |:heavy_minus_sign:|`:heavy_minus_sign:`|
@@ -834,6 +857,7 @@
 |:hurtrealbad:|`:hurtrealbad:`|
 |:hushed:|`:hushed:`|
 |:hut:|`:hut:`|
+|:hyacinth:|`:hyacinth:`|
 |:ice_cream:|`:ice_cream:`|
 |:ice_cube:|`:ice_cube:`|
 |:ice_hockey:|`:ice_hockey:`|
@@ -841,10 +865,12 @@
 |:icecream:|`:icecream:`|
 |:iceland:|`:iceland:`|
 |:id:|`:id:`|
+|:identification_card:|`:identification_card:`|
 |:ideograph_advantage:|`:ideograph_advantage:`|
 |:imp:|`:imp:`|
 |:inbox_tray:|`:inbox_tray:`|
 |:incoming_envelope:|`:incoming_envelope:`|
+|:index_pointing_at_the_viewer:|`:index_pointing_at_the_viewer:`|
 |:india:|`:india:`|
 |:indonesia:|`:indonesia:`|
 |:infinity:|`:infinity:`|
@@ -866,7 +892,9 @@
 |:japanese_castle:|`:japanese_castle:`|
 |:japanese_goblin:|`:japanese_goblin:`|
 |:japanese_ogre:|`:japanese_ogre:`|
+|:jar:|`:jar:`|
 |:jeans:|`:jeans:`|
+|:jellyfish:|`:jellyfish:`|
 |:jersey:|`:jersey:`|
 |:jigsaw:|`:jigsaw:`|
 |:jordan:|`:jordan:`|
@@ -883,6 +911,7 @@
 |:key:|`:key:`|
 |:keyboard:|`:keyboard:`|
 |:keycap_ten:|`:keycap_ten:`|
+|:khanda:|`:khanda:`|
 |:kick_scooter:|`:kick_scooter:`|
 |:kimono:|`:kimono:`|
 |:kiribati:|`:kiribati:`|
@@ -928,6 +957,8 @@
 |:left_right_arrow:|`:left_right_arrow:`|
 |:left_speech_bubble:|`:left_speech_bubble:`|
 |:leftwards_arrow_with_hook:|`:leftwards_arrow_with_hook:`|
+|:leftwards_hand:|`:leftwards_hand:`|
+|:leftwards_pushing_hand:|`:leftwards_pushing_hand:`|
 |:leg:|`:leg:`|
 |:lemon:|`:lemon:`|
 |:leo:|`:leo:`|
@@ -938,6 +969,7 @@
 |:libra:|`:libra:`|
 |:libya:|`:libya:`|
 |:liechtenstein:|`:liechtenstein:`|
+|:light_blue_heart:|`:light_blue_heart:`|
 |:light_rail:|`:light_rail:`|
 |:link:|`:link:`|
 |:lion:|`:lion:`|
@@ -953,6 +985,7 @@
 |:long_drum:|`:long_drum:`|
 |:loop:|`:loop:`|
 |:lotion_bottle:|`:lotion_bottle:`|
+|:lotus:|`:lotus:`|
 |:lotus_position:|`:lotus_position:`|
 |:lotus_position_man:|`:lotus_position_man:`|
 |:lotus_position_woman:|`:lotus_position_woman:`|
@@ -961,6 +994,7 @@
 |:love_hotel:|`:love_hotel:`|
 |:love_letter:|`:love_letter:`|
 |:love_you_gesture:|`:love_you_gesture:`|
+|:low_battery:|`:low_battery:`|
 |:low_brightness:|`:low_brightness:`|
 |:luggage:|`:luggage:`|
 |:lungs:|`:lungs:`|
@@ -1029,6 +1063,7 @@
 |:mantelpiece_clock:|`:mantelpiece_clock:`|
 |:manual_wheelchair:|`:manual_wheelchair:`|
 |:maple_leaf:|`:maple_leaf:`|
+|:maracas:|`:maracas:`|
 |:marshall_islands:|`:marshall_islands:`|
 |:martial_arts_uniform:|`:martial_arts_uniform:`|
 |:martinique:|`:martinique:`|
@@ -1049,6 +1084,7 @@
 |:medical_symbol:|`:medical_symbol:`|
 |:mega:|`:mega:`|
 |:melon:|`:melon:`|
+|:melting_face:|`:melting_face:`|
 |:memo:|`:memo:`|
 |:men_wrestling:|`:men_wrestling:`|
 |:mending_heart:|`:mending_heart:`|
@@ -1071,6 +1107,7 @@
 |:minibus:|`:minibus:`|
 |:minidisc:|`:minidisc:`|
 |:mirror:|`:mirror:`|
+|:mirror_ball:|`:mirror_ball:`|
 |:mobile_phone_off:|`:mobile_phone_off:`|
 |:moldova:|`:moldova:`|
 |:monaco:|`:monaco:`|
@@ -1086,6 +1123,7 @@
 |:montserrat:|`:montserrat:`|
 |:moon:|`:moon:`|
 |:moon_cake:|`:moon_cake:`|
+|:moose:|`:moose:`|
 |:morocco:|`:morocco:`|
 |:mortar_board:|`:mortar_board:`|
 |:mosque:|`:mosque:`|
@@ -1130,6 +1168,7 @@
 |:negative_squared_cross_mark:|`:negative_squared_cross_mark:`|
 |:nepal:|`:nepal:`|
 |:nerd_face:|`:nerd_face:`|
+|:nest_with_eggs:|`:nest_with_eggs:`|
 |:nesting_dolls:|`:nesting_dolls:`|
 |:netherlands:|`:netherlands:`|
 |:neutral_face:|`:neutral_face:`|
@@ -1227,7 +1266,9 @@
 |:pakistan:|`:pakistan:`|
 |:palau:|`:palau:`|
 |:palestinian_territories:|`:palestinian_territories:`|
+|:palm_down_hand:|`:palm_down_hand:`|
 |:palm_tree:|`:palm_tree:`|
+|:palm_up_hand:|`:palm_up_hand:`|
 |:palms_up_together:|`:palms_up_together:`|
 |:panama:|`:panama:`|
 |:pancakes:|`:pancakes:`|
@@ -1247,6 +1288,7 @@
 |:passport_control:|`:passport_control:`|
 |:pause_button:|`:pause_button:`|
 |:paw_prints:|`:paw_prints:`|
+|:pea_pod:|`:pea_pod:`|
 |:peace_symbol:|`:peace_symbol:`|
 |:peach:|`:peach:`|
 |:peacock:|`:peacock:`|
@@ -1270,6 +1312,7 @@
 |:person_in_tuxedo:|`:person_in_tuxedo:`|
 |:person_red_hair:|`:person_red_hair:`|
 |:person_white_hair:|`:person_white_hair:`|
+|:person_with_crown:|`:person_with_crown:`|
 |:person_with_probing_cane:|`:person_with_probing_cane:`|
 |:person_with_turban:|`:person_with_turban:`|
 |:person_with_veil:|`:person_with_veil:`|
@@ -1290,6 +1333,7 @@
 |:pinching_hand:|`:pinching_hand:`|
 |:pineapple:|`:pineapple:`|
 |:ping_pong:|`:ping_pong:`|
+|:pink_heart:|`:pink_heart:`|
 |:pirate_flag:|`:pirate_flag:`|
 |:pisces:|`:pisces:`|
 |:pitcairn_islands:|`:pitcairn_islands:`|
@@ -1298,6 +1342,7 @@
 |:place_of_worship:|`:place_of_worship:`|
 |:plate_with_cutlery:|`:plate_with_cutlery:`|
 |:play_or_pause_button:|`:play_or_pause_button:`|
+|:playground_slide:|`:playground_slide:`|
 |:pleading_face:|`:pleading_face:`|
 |:plunger:|`:plunger:`|
 |:point_down:|`:point_down:`|
@@ -1324,6 +1369,7 @@
 |:pouch:|`:pouch:`|
 |:poultry_leg:|`:poultry_leg:`|
 |:pound:|`:pound:`|
+|:pouring_liquid:|`:pouring_liquid:`|
 |:pout:|`:pout:`|
 |:pouting_cat:|`:pouting_cat:`|
 |:pouting_face:|`:pouting_face:`|
@@ -1331,6 +1377,8 @@
 |:pouting_woman:|`:pouting_woman:`|
 |:pray:|`:pray:`|
 |:prayer_beads:|`:prayer_beads:`|
+|:pregnant_man:|`:pregnant_man:`|
+|:pregnant_person:|`:pregnant_person:`|
 |:pregnant_woman:|`:pregnant_woman:`|
 |:pretzel:|`:pretzel:`|
 |:previous_track_button:|`:previous_track_button:`|
@@ -1404,7 +1452,10 @@
 |:rice_cracker:|`:rice_cracker:`|
 |:rice_scene:|`:rice_scene:`|
 |:right_anger_bubble:|`:right_anger_bubble:`|
+|:rightwards_hand:|`:rightwards_hand:`|
+|:rightwards_pushing_hand:|`:rightwards_pushing_hand:`|
 |:ring:|`:ring:`|
+|:ring_buoy:|`:ring_buoy:`|
 |:ringed_planet:|`:ringed_planet:`|
 |:robot:|`:robot:`|
 |:rock:|`:rock:`|
@@ -1438,6 +1489,7 @@
 |:sailboat:|`:sailboat:`|
 |:sake:|`:sake:`|
 |:salt:|`:salt:`|
+|:saluting_face:|`:saluting_face:`|
 |:samoa:|`:samoa:`|
 |:san_marino:|`:san_marino:`|
 |:sandal:|`:sandal:`|
@@ -1479,6 +1531,7 @@
 |:seven:|`:seven:`|
 |:sewing_needle:|`:sewing_needle:`|
 |:seychelles:|`:seychelles:`|
+|:shaking_face:|`:shaking_face:`|
 |:shallow_pan_of_food:|`:shallow_pan_of_food:`|
 |:shamrock:|`:shamrock:`|
 |:shark:|`:shark:`|
@@ -1721,6 +1774,7 @@
 |:trinidad_tobago:|`:trinidad_tobago:`|
 |:tristan_da_cunha:|`:tristan_da_cunha:`|
 |:triumph:|`:triumph:`|
+|:troll:|`:troll:`|
 |:trolleybus:|`:trolleybus:`|
 |:trollface:|`:trollface:`|
 |:trophy:|`:trophy:`|
@@ -1818,6 +1872,7 @@
 |:western_sahara:|`:western_sahara:`|
 |:whale:|`:whale:`|
 |:whale2:|`:whale2:`|
+|:wheel:|`:wheel:`|
 |:wheel_of_dharma:|`:wheel_of_dharma:`|
 |:wheelchair:|`:wheelchair:`|
 |:white_check_mark:|`:white_check_mark:`|
@@ -1837,7 +1892,9 @@
 |:wind_face:|`:wind_face:`|
 |:window:|`:window:`|
 |:wine_glass:|`:wine_glass:`|
+|:wing:|`:wing:`|
 |:wink:|`:wink:`|
+|:wireless:|`:wireless:`|
 |:wolf:|`:wolf:`|
 |:woman:|`:woman:`|
 |:woman_artist:|`:woman_artist:`|
@@ -1885,6 +1942,7 @@
 |:wrestling:|`:wrestling:`|
 |:writing_hand:|`:writing_hand:`|
 |:x:|`:x:`|
+|:x_ray:|`:x_ray:`|
 |:yarn:|`:yarn:`|
 |:yawning_face:|`:yawning_face:`|
 |:yellow_circle:|`:yellow_circle:`|
