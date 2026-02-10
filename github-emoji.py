@@ -57,7 +57,7 @@ for key in keys:
     text = '|:' + key + ':|`:' + key + ':`|' + '\n'
     complete_text += text
     
-with open('README.md', 'w') as f:
+with open('index.md', 'w') as f:
     f.write(complete_text)
     
 print('Emoji Update Complete')
