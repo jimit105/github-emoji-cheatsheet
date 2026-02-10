@@ -8,6 +8,7 @@ r = requests.get(url)
 r.raise_for_status()
 
 emojis = r.json()
+print(f'Total emojis: {len(emojis)}')
 
 # Jekyll front matter
 front_matter = '''---
