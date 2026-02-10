@@ -18,7 +18,7 @@ title: GitHub Emoji Cheatsheet
 
 '''
 
-action_badge = '[![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/workflows/GitHub%20Emoji%20Update/badge.svg?branch=master)](https://github.com/jimit105/github-emoji-cheatsheet/actions)'
+action_badge = '[![GitHub Emoji Update](https://github.com/jimit105/github-emoji-cheatsheet/actions/workflows/python-app.yml/badge.svg)](https://github.com/jimit105/github-emoji-cheatsheet/actions/workflows/python-app.yml)'
 header = f'## GitHub Emoji Cheatsheet\n\n{action_badge}\n\n'
 table = '|Icon|Emoji Code|\n|---|---|\n'
 
